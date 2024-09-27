@@ -13,10 +13,11 @@ This badge validates your understanding of data warehouse concepts and Snowflake
 - **Data Sharing**: Leveraging Snowflake's secure data sharing features to collaborate across different accounts.
 
 ### Skills Acquired
-- Ability to create and manage Snowflake databases and schemas.
-- Understanding of data loading and unloading processes.
-- Knowledge of querying best practices and optimization techniques.
-- Familiarity with data sharing capabilities in Snowflake.
+-Create, edit, and load Snowflake TABLES
+-Create, edit, and use Snowflake FILE FORMATS
+-Create, edit, and use Snowflake COMPUTE resources
+-Create, edit, and use COPY INTO statements
+-Transform, parse and load both CSV and JSON data
 
 ---
 
@@ -34,15 +35,14 @@ This badge focuses on practical data engineering skills using Snowflake's advanc
 
 ### Skills Acquired
 - Proficiency in using Snowpipe for real-time data ingestion.
-- Ability to implement and manage Streams for efficient change data capture.
-- Experience in scheduling and automating tasks within Snowflake.
-- Knowledge of data transformation techniques and performance optimization strategies.
-
+- Convert Timezones with Snowflake Date/Time Data Types 
+- Map Approximate End User Locations via IP Addresses Create & Run SNOWFLAKE TASKS and MERGE Statements.
+- Create a STREAM for Change Data Capture Functionality.
+- Create a SNOWPIPE for Event-Driven, Continuous Loading.
 ---
 
 ### Conclusion
-By earning these badges, you demonstrate your competence in leveraging Snowflake for effective data warehousing and engineering solutions. These skills are crucial for managing critical data pipelines and enabling data-driven decision-making in organizations.
-
+By earning these badges, we can demonstrate your competence in leveraging Snowflake for effective data warehousing and engineering solutions. These skills are crucial for managing critical data pipelines and enabling data-driven decision-making in organizations.
 ---
 
 ### Additional Resources
