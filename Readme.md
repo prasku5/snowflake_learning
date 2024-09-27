@@ -1,4 +1,4 @@
-# Snowflake Badges
+# Snowflake Courses 
 
 ## Badge 1: Data Warehouse Fundamentals
 
