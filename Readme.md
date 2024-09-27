@@ -1,7 +1,9 @@
 # Snowflake Courses 
 
-Course link: https://learn.snowflake.com/en/courses/ 
+Course link: https://learn.snowflake.com/en/courses/
+
 DW course: https://learn.snowflake.com/en/courses/uni-essdww101/
+
 DE course: https://learn.snowflake.com/en/courses/uni-ess-dngw/
 
 ## Badge 1: Data Warehouse Fundamentals
